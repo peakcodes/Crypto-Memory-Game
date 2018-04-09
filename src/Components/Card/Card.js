@@ -1,27 +1,29 @@
 // Set up card
 'use Strict';
-import React from ("React");
+import React from "React";
 import "./Card.css";
 
 // set up function to display cards - names and image
 
-const MemoryCard = props => (
+const CoinCard = props => (
     <div className="card">
-        {/* Display selected prop name */}
-        <div className="coin">
+        {/* Display selected card name */}
+        <div className="content">
             <ul>
                 <li>
                     <p>{props.name}</p>
                 </li>
             </ul>
         </div>
-        {/* display card image */}
-        <div className="img">
+
+        {/* display card image and cause shake gesture when clicked*/}
+
+        <div className="img-responsive shake">
             <a onClick={() => props.clicked(props.id)}>
-                <img alt={prop.name} src={prop.url} />
+                <img alt={props.name} src={props.url} />
             </a>
         </div>
     </div>    
 );
 
-export default MemoryCard;
+export default CoinCard;

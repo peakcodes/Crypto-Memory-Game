@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Bitcoin",
+        "url": "https://static-s.aa-cdn.net/img/ios/980888073/621bc5e70177151ada2dfb20b7e32524?v=1"
+    },
+    {
+        "id": 2,
+        "name": "Litecoin",
+        "url": "https://cdn.ipetitions.com/user-images/petitions/raise-litecoin-awareness-to-be-accepted-by-gyft/icon_16_litecoin.png"
+    },
+    {
+        "id": 3,
+        "name": "Ripple",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnfxgbVzCEE4qEhf3jPk4skPF-b9R3egU_So8J2d8S9Qp47xTX"
+    },
+    {
+        "id": 4,
+        "name": "Doge",
+        "url": "http://dogebox.in/themes/default/doge.png"
+    },
+    {
+        "id": 5,
+        "name": "Ethereum",
+        "url": "https://cdn.shopify.com/s/files/1/1170/3026/products/ether2_logo_1500x.png?v=1501493939"
+    },
+    {
+        "id": 6,
+        "name": "Dash",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAYFBMVEUcdbz////E2+6oy+aNut04hsRVl80Zc7sWcbry9/v4+/01hMMtf8F2q9ZxqdXo8fhJkMkheL2aweGy0OhgntDN4PDb6fTp8fjU5fK71OiuzedcndBHkMuFtdxno9O+2OzqvVe8AAADKElEQVR4nO2b65KiMBCFg8gdREAHdXR4/7dcZHe2JDkxDZvQNVs582uqiP3pCUk6SYtgpv5WHUvhTOWxCvt5RPH6z/DpLvZfNfEtxwDX+wbhJ0U3ANB/bRX+qbiWAc7FlvHH3nCdA1ybbeOPCl8Bhu3jfxNMABeO+KLZfQPkm3X/uYr+D8CDJ74Qh98ANYsBk84TQMUWX5yeABnfDyBEPQKEjPHFfgTYdAiWFY8AG4/BczW5yDjjC3EZ/1g1iB0vQOgBPIAH8AAewAN4AA/wMwDSbvePGtoD3nqiAdxfN3XWKm8RAg3gYSH+qP6UrANIL3YAgvxTISABRDYcmFQXMgEJwJIDT7XpCgBrDoyq5Y5IASisOTAqXgFQWYwfPKROQABIzzYBQqkTEACKzCZAtxzAqgMrAOw6ELSL+4BdB4LDYoBov1YdiJ9H0se7XA+0AOAsP+QQoKkBgDwMuASIoQMbApAccAjQfAAA+SV0CXBHL+FRecwdwB7EByczGKDsQeu55ElFEXRAbQQBki9j/EBd3c1FdAADpGgMm6s3HTIgBz5AIwhAGP6NDqBlHGqEAAgO5PLKSlaEWqFGEGAwAtSG+HAhjRyAADYcQIsI2AgAJOYlkNGBArWClxMAQLozAqxyQEkJdACENMDkQIIckFeDOoDUnIgZHShRqxN8VAVICA4YRsHpTFhpRNygSAipsDqpSkLv8YBtUwHK2CjTPZ8SfQd5OawDsCHkQKY5H3UBAEdSjQNOAJoFDjgBQHOZzgEXAMkNAJx1Q5cDgAbNZZXuzdUClNFawXdATgmNAHA0X6+ddvLQAdjbGpyE54E3AAn6HddLzchMAIQ1wQLlR/3koQGwuy2yfzN5YQC7Dgz68DoAqw5c3k6eGMCmA+/ja3JDiw4Y4mtyw6v5g4nqTDkkBCBk5zRlB0N4TWp2shQ/VM5HaACE7JygvNNOQCaAEm3wLVPdVcQb6j/k5NQDeAAP4AE8gAfwAP83APvldvbr/ewFDvwlHuxFLuxlPuyFTvylXuzFbvzlfuwFj/wln/xFr/xlv/yFzwF76ffUF3mL3ycjNi///wVY2SfXYwgnewAAAABJRU5ErkJggg=="
+    },
+    {
+        "id": 7,
+        "name": "Monero",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0HfTn8LNQgE1Xk3vMckhuUypkNveo4P09PUgEkguHCUmqTCL"
+    },
+    {
+        "id": 8,
+        "name": "Stellar",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Am7cDMsj5RYcDhG9Imt6oR_LjHitov8Z8tJk2ZIhGnBiQMhe"
+    },
+    {
+        "id": 9,
+        "name": "Factom",
+        "url": "http://www.icryptoinvestor.com/wp-content/uploads/2017/08/factom.png"
+    },
+    {
+        "id": 10,
+        "name": "Bitshares",
+        "url": "https://steemitimages.com/DQmeniUJ8QzNeAf91ftqqackCB1spkMPUJRjRAy6LNF2YWy/image.png"
+    },
+    {
+        "id": 11,
+        "name": "Bitcoin Cash",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/0a/68/f8/0a68f822-b919-a591-e1c3-45b67ff99d1c/source/256x256bb.jpg"
+    },
+    {
+        "id": 12,
+        "name": "The Penny",
+        "url": "https://dl2.macupdate.com/images/icons256/54227.png?d=1507996774"
+    },
+    {
+        "id": 13,
+        "name": "Bitcoin Astronauts",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKT_6R153l60BuH0r-BNoPb0iVdVQt6E4a9xo3xUzpVqBoiRag"
+    },
+    {
+        "id": 14,
+        "name": "Random Coins",
+        "url": "https://tocrypto.ru/content/uploads/2017/12/altcoins-350x200.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Blockchain",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5uqxlb2PGGeZpkomlas9X7WI3-R5aJOHfbRdk4-u0OXmNSmPKeQ"
+    }
+]
