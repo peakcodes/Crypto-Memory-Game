@@ -3,7 +3,7 @@ import './App.css';
 import Wrapper from "./Components/Wrapper";
 import Footer from "./Components/Footer";
 import Navbar from "./Components/Navbar";
-import Game from "./Components/Game";
+// import Game from "./Components/Game";
 import Title from "./Components/Title";
 import coins from "./coins.json";
 import CoinCard from './Components/Card';
@@ -16,7 +16,7 @@ class App extends Component {
     unClicked: coins,
     currentScore: 0,
     topScore: 0
-  }
+  };
 
   componentDidMount() {
     // insert random cards

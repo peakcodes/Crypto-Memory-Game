@@ -1,5 +1,4 @@
 // Set up card
-'use Strict';
 import React from "React";
 import "./Card.css";
 
