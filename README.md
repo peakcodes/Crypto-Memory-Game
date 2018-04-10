@@ -1,6 +1,6 @@
 ## Cryto Memory Game
 
-Please play my game here: 
+Please play my game here: https://peakcodes.github.io/Crypto-Memory-Game/
 
 ## App Description
 
