@@ -2,4 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background-image: url("https://cdn6.dissolve.com/p/D31_8_015/D31_8_015_0004_600.jpg");
+  color: darkorange;
+  font-size: 200%;
 }

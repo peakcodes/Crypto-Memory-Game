@@ -12,5 +12,18 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "Please play my game here:",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peakcodes/Crypto-Memory-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peakcodes/Crypto-Memory-Game/issues"
+  },
+  "homepage": "https://github.com/peakcodes/Crypto-Memory-Game#readme"
 }

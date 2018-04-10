@@ -3,6 +3,8 @@ import './App.css';
 import Wrapper from "./Components/Wrapper";
 import Footer from "./Components/Footer";
 import Navbar from "./Components/Navbar";
+// import Row from "./Components/Row";
+// import Col from "./Components/Col";
 // import Game from "./Components/Game";
 import Title from "./Components/Title";
 import coins from "./coins.json";
@@ -19,13 +21,31 @@ class App extends Component {
   };
 
   componentDidMount() {
-    // insert random cards
+    // Randomize Coins
+
   }
 
+//   shuffleArray = (array) => {
+//     let shuffledArr = [];
+//     array.map(coin =>{
+//         let randomizer = Math.random();
+//         randomizer > 0.5 ?
+//         shuffledArr = [...shuffledArr,coin]
+//         : shuffledArr = [coin,...shuffledArr]
+//     });
+//     return shuffledArr;
+// }
+
+// //finds the index of the clicked card from cards
+// findCoinIndex = (array,id) =>{
+//     const clickedCoin = array.filter(Coin=>Coin.id===id);
+//     return array.indexOf(clickedCoin[0]);
+// }
+
   // randomize cards/array
-random = Coins => {
-  var rCoin = Math.random(coins)
-}
+// random = Coins => {
+//   var rCoin = Math.random(coins)
+// }
   // random = coins => {
   //   var rcoin = 
   // }
@@ -37,7 +57,7 @@ random = Coins => {
 
     // if true; card has already been checked; reset game
     if (checkCoin === undefined) {
-      this.state({
+      this.setState({
         prompt: "Game over! You already clicked that coin.",
         // reset score
         currentScore: 0,
@@ -75,7 +95,7 @@ random = Coins => {
 
         {/* set up data output and assign clicks */}
 
-        <div>
+
           {this.state.coins.map(coins => (
             <CoinCard
               key={coins.id}
@@ -85,8 +105,11 @@ random = Coins => {
               clicked={this.clicked}
               score={this.score}
             />
+
           ))}
-        </div>
+
+
+        <Footer/>
       </Wrapper>
     );
   }

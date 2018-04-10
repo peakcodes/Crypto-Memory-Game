@@ -1,5 +1,5 @@
 // Set up card
-import React from "React";
+import React from "react";
 import "./Card.css";
 
 // set up function to display cards - names and image
@@ -9,15 +9,15 @@ const CoinCard = props => (
         {/* Display selected card name */}
         <div className="content">
             <ul>
-                <li>
+
                     <p>{props.name}</p>
-                </li>
+
             </ul>
         </div>
 
         {/* display card image and cause shake gesture when clicked*/}
 
-        <div className="img-responsive shake">
+        <div id="crypto" className="img-responsive shake">
             <a onClick={() => props.clicked(props.id)}>
                 <img alt={props.name} src={props.url} />
             </a>
